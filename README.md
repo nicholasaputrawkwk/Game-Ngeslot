@@ -1,0 +1,2 @@
+# Game-Ngeslot
+slotgame
